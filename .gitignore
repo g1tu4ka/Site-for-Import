@@ -4,3 +4,4 @@ img/.DS_Store
 img/Thumbs.db
 img/NeuroStartUp.png_backup
 .DS_Store
+.gitignore
